@@ -1,0 +1,22 @@
+SiiNunit {
+  mod_package : .package_name {
+
+    # Package version can be any string with any length.
+    package_version: "1.0"
+
+    # Display name can be any string with any length.
+		display_name: "Reworked dashboard to Scania S and R (Replacement)"
+
+    # Author can be any string with any length.
+    author: "Langendorf and trivial changes from DFOXpro"
+
+    # Categories is an array of strings.
+    category[]: "tuning_parts"
+
+    # Icon inside the root directory of the mod.
+    icon: "icon_4_mod.jpg"
+
+    # Description file inside the root directory of the mod.
+    description_file: "mod_description.txt"
+  }
+}

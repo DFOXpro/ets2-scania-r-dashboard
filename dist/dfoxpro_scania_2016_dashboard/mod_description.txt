@@ -1,0 +1,18 @@
+Reworked dashboard to Scania S and R (Replacement)
+
+[blue] This mod was built and tested on the standard game version 1.30.X
+
+This mod is a fork of Langendorf's http://steamcommunity.com/sharedfiles/filedetails/?id=1220768829
+
+Changes from original:
+- Gear number now is bigger and gear type now is hiden
+- Clock number now is bigger
+
+[red] Source @ github DFOXpro ets2-scania-r-dashboard
+
+[green] Text from original author:
+Full reworked of a Dashboard New Scania S and R, for a larger size and more readable
+
+[b] if you like what I have done, please give rate.[/b]
+[IMG]http://i.imgur.com/fVVaDCS.gif[/IMG]
+[b] and if you want support me just link bellow https://www.paypal.me/langend0rf[/b]

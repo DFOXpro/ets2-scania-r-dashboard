@@ -1,0 +1,5 @@
+material : "ui"
+{
+	texture : "dashboard_computer.tobj"
+	texture_name : "texture"
+}

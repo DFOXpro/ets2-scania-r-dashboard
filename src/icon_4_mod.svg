@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="icon_4_mod.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="408.56578"
+     inkscape:cy="864.10966"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1878"
+     inkscape:window-height="1052"
+     inkscape:window-x="42"
+     inkscape:window-y="-24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       sodipodi:absref="/home/dfoxpro/Juegos/desorden/ets2/ets2-scania-r-dashboard/dist/dfoxpro_scania_2016_dashboard/img.jpg"
+       xlink:href="/home/dfoxpro/Juegos/desorden/ets2/ets2-scania-r-dashboard/dist/dfoxpro_scania_2016_dashboard/img.jpg"
+       width="23.368"
+       height="13.716"
+       preserveAspectRatio="none"
+       id="image877"
+       x="94.527306"
+       y="54.284851" />
+    <image
+       sodipodi:absref="/home/dfoxpro/.local/share/Steam/userdata/117860530/760/remote/227300/screenshots/20180104184120_1.jpg"
+       xlink:href="/home/dfoxpro/.local/share/Steam/userdata/117860530/760/remote/227300/screenshots/20180104184120_1.jpg"
+       style="opacity:1"
+       transform="rotate(3.7433699)"
+       width="134.87057"
+       height="34.900379"
+       preserveAspectRatio="none"
+       id="image888"
+       x="54.446541"
+       y="35.22541" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-dashoffset:0"
+       id="rect891"
+       width="23.368"
+       height="13.716"
+       x="94.527306"
+       y="54.284851"
+       inkscape:export-xdpi="300.00018"
+       inkscape:export-ydpi="300.00018" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="95.982323"
+       y="57.6702"
+       id="text895"><tspan
+         sodipodi:role="line"
+         id="tspan893"
+         x="95.982323"
+         y="57.6702"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:Impact;-inkscape-font-specification:'Impact Italic';fill:#800000;stroke-width:0.26458332">SCANIA 2016</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="99.643974"
+       y="59.725445"
+       id="text899"><tspan
+         sodipodi:role="line"
+         id="tspan897"
+         x="99.643974"
+         y="59.725445"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Impact;-inkscape-font-specification:'Impact Italic';fill:#800000;stroke-width:0.26458332">REWORKED DASHBOARD</tspan></text>
+  </g>
+</svg>
